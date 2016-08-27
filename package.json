@@ -1,0 +1,15 @@
+{
+  "name": "currency-converter",
+  "version": "0.0.1",
+  "description": "Headless currency converter for Node.JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "node"
+  ],
+  "author": "Deinon",
+  "license": "GPLv3"
+}
